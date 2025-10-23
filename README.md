@@ -201,10 +201,6 @@ Edit `src/data/books.js` to add new books to the Insaf Book Store catalog:
 5. Push to branch: `git push origin feature-name`
 6. Submit a pull request
 
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
 ## 🆘 Support
 
 If you encounter any issues or have questions:
